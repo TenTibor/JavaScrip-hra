@@ -1,0 +1,31 @@
+// Images
+let playerImg = new Image();
+playerImg.src = 'img/player.png';
+let playerJumpImg = new Image();
+playerJumpImg.src = 'img/player_jump.png';
+let playerFallImg = new Image();
+playerFallImg.src = 'img/player_fall.png';
+let floor = new Image();
+floor.src = 'img/floor.png';
+let sky = new Image();
+sky.src = 'img/sky.jpg';
+let doorOpenImg = new Image();
+doorOpenImg.src = 'img/door_open.png';
+let pointImg = new Image();
+pointImg.src = 'img/1b.png';
+let beerImg = new Image();
+beerImg.src = 'img/beer.png';
+let projectImg = new Image();
+projectImg.src = 'img/codeProject.png';
+let absenceImg = new Image();
+absenceImg.src = 'img/absence.png';
+let controls = new Image();
+controls.src = 'img/controls.png';
+// Sounds
+let soundtrack = new Sound("sounds/game_running.m4a");
+soundtrack.sound.volume = 0.5;
+let jump = new Sound("sounds/jump.m4a");
+let gameOver = new Sound("sounds/game_over.m4a");
+let gameWin = new Sound("sounds/win.m4a");
+let pointCollect = new Sound("sounds/point.m4a");
+let clickSound = new Sound("sounds/click.m4a");
