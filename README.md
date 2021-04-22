@@ -1,2 +1,2 @@
 # JavaScript hra
-Jednoduchá hra vytvorená zapomocou JavaScriptu a Canvasu. 
+Jednoduchá hra vytvorená pomocou JavaScriptu a Canvasu. 
